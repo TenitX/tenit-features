@@ -1,0 +1,30 @@
+{
+  "name": "tenit-features",
+  "version": "1.0.0",
+  "description": "Typescript/Javascript client library for interacting with the Tenit Values tool for continuous configuration",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenitX/tenit-values.git"
+  },
+  "keywords": [
+    "remote",
+    "configuration",
+    "continuous",
+    "configuration",
+    "tenit",
+    "values"
+  ],
+  "author": "TenitX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenitX/tenit-values/issues"
+  },
+  "homepage": "https://github.com/TenitX/tenit-values#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
