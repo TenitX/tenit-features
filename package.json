@@ -1,29 +1,26 @@
 {
   "name": "tenit-features",
   "version": "1.0.0",
-  "description": "Typescript/Javascript client library for interacting with the Tenit Values tool for continuous configuration",
+  "description": "ypescript/Javascript client library for interacting with the Tenit Features tool managing feature flags.",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TenitX/tenit-values.git"
+    "url": "git+https://github.com/TenitX/tenit-features.git"
   },
   "keywords": [
-    "remote",
-    "configuration",
-    "continuous",
-    "configuration",
-    "tenit",
-    "values"
+    "feature",
+    "flags",
+    "tenit"
   ],
   "author": "TenitX",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TenitX/tenit-values/issues"
+    "url": "https://github.com/TenitX/tenit-features/issues"
   },
-  "homepage": "https://github.com/TenitX/tenit-values#readme",
+  "homepage": "https://github.com/TenitX/tenit-features#readme",
   "dependencies": {
     "axios": "^0.26.0"
   }
