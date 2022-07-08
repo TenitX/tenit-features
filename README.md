@@ -26,5 +26,5 @@ import * as Feature from "tenit-features";
 const isMyFeatureEnabled : Boolean = await Features.isEnabled("my-feature", 123);
 ```
 
-## Tenit Values
-Not yet using Tenit Values to power continous configuration in your apps? Check out https://values.tenitx.com
+## Tenit Features
+Not yet using Tenit Features to manage feature flags in your apps? Check out https://app.tenitx.com/features
