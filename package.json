@@ -1,6 +1,6 @@
 {
   "name": "tenit-features",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript/Javascript client library for interacting with the Tenit Features tool managing feature flags.",
   "main": "index.ts",
   "scripts": {
